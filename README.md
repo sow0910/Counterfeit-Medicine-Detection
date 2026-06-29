@@ -230,5 +230,3 @@ The project is based on research in:
 (Complete references are available in the project documentation.)
 
 ---
-
-⭐ If you found this project useful, consider giving it a star!
