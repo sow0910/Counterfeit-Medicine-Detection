@@ -1,10 +1,10 @@
-# 💊 Counterfeit Medicine Detection Using Computer Vision and Siamese Neural Networks
+# Counterfeit Medicine Detection Using Computer Vision and Siamese Neural Networks
 
 A deep learning-based system for detecting counterfeit medicines by comparing medicine packaging images using a **Siamese Neural Network** with a **ResNet18** backbone. The project includes a **Streamlit web application** for real-time counterfeit medicine verification.
 
 ---
 
-## 📌 Overview
+## Overview
 
 Counterfeit medicines pose significant risks to public health and can lead to ineffective treatment and severe medical complications. Traditional authentication methods such as barcodes and RFID tags are vulnerable to duplication and require additional infrastructure.
 
@@ -12,7 +12,7 @@ This project proposes an AI-powered solution that analyzes medicine packaging im
 
 ---
 
-## ✨ Features
+## Features
 
 - Deep Learning based Counterfeit Detection
 - Siamese Neural Network with ResNet18
@@ -24,7 +24,7 @@ This project proposes an AI-powered solution that analyzes medicine packaging im
 
 ---
 
-## 🏗️ System Architecture
+## System Architecture
 
 ```
 Reference Image + Test Image
@@ -51,7 +51,7 @@ Reference Image + Test Image
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 - Siamese Neural Network
 - Shared-weight ResNet18 Feature Extractor
@@ -61,7 +61,7 @@ Reference Image + Test Image
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 A custom dataset was created manually.
 
@@ -88,7 +88,7 @@ Generated synthetically using:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology | Purpose |
 |------------|---------|
@@ -103,7 +103,7 @@ Generated synthetically using:
 
 ---
 
-## 📊 Results
+## Results
 
 | Metric | Value |
 |---------|-------|
@@ -116,7 +116,7 @@ The model achieved high recall, making it suitable for healthcare applications w
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Clone Repository
 
@@ -138,7 +138,7 @@ streamlit run app.py
 
 ---
 
-## 📸 Application Workflow
+## Application Workflow
 
 1. Upload Test Medicine Image
 2. Upload Genuine Reference Image
@@ -155,7 +155,7 @@ along with a confidence score.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Counterfeit_Medicine_Project/
@@ -172,7 +172,7 @@ Counterfeit_Medicine_Project/
 
 ---
 
-## ⚠️ Limitations
+## Limitations
 
 - Limited to 16 medicine types
 - Uses synthetically generated counterfeit images
@@ -181,7 +181,7 @@ Counterfeit_Medicine_Project/
 
 ---
 
-## 🔮 Future Work
+## Future Work
 
 - OCR-based text verification
 - Mobile application deployment
@@ -192,7 +192,7 @@ Counterfeit_Medicine_Project/
 
 ---
 
-## 👨‍💻 Authors
+## Authors
 
 **S. Sowndarya**  
 Integrated M.Tech (Computer Science and Engineering - Business Analytics)  
@@ -204,7 +204,7 @@ VIT Chennai
 
 ---
 
-## 🙏 Acknowledgement
+## Acknowledgement
 
 Guided by
 
@@ -216,7 +216,7 @@ VIT Chennai
 
 ---
 
-## 📚 References
+## References
 
 The project is based on research in:
 
